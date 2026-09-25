@@ -11,16 +11,12 @@ Repositorio destinado a la práctica de los flujos de trabajo básicos con Git y
 - Resolver conflictos de integración de código.
 - Trabajar con repositorios remotos en GitHub (`fetch`, `pull`, `push`, `PR`).
 
+--- 
+
+## Historial de la práctica
+
+50bceca (HEAD -> main) Crear estructura inicial del proyecto
+
 ---
-
-## 🛠️ Requisitos Previos
-
-- Tener instalado [Git](https://git-scm.com/).
-- Una cuenta activa en [GitHub](https://github.com/).
-- Terminal de comandos o bash configurado.
-
-Verifica tu instalación ejecutando:
-```bash
-git --version
 
 ## Problemas y dudas
