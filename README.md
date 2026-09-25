@@ -11,11 +11,14 @@ Repositorio destinado a la práctica de los flujos de trabajo básicos con Git y
 - Resolver conflictos de integración de código.
 - Trabajar con repositorios remotos en GitHub (`fetch`, `pull`, `push`, `PR`).
 
---- 
+---
 
 ## Historial de la práctica
 
-50bceca (HEAD -> main) Crear estructura inicial del proyecto
+- cf179d5 (HEAD -> feature/contacto, origin/main, origin/HEAD, main) Add files via upload
+- 4a17289 (origin/feature/contacto) Añadir página de contacto
+- 5d3f503 Correcion de errores en el README
+- 50bceca Crear estructura inicial del proyecto
 
 ---
 
